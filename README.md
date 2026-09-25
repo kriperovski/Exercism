@@ -1,2 +1,2 @@
 # Exercism
-Here you can see my exercim solutions 
+Here you can see my Exercism solutions 
